@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39cc5b03-8856-4d7b-82ca-ef96832e5491" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/fredrickabayie.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/gjslint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/district.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/login_controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/nurse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/task.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/district.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/nurse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/task.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/login_controller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/mytask.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/logerrors.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/validation.js" afterPath="$PROJECT_DIR$/controllers/validation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/adb.php" afterPath="$PROJECT_DIR$/models/adb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nurseTaskManagementSystem-group1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,11 +30,11 @@
     <favorites_list name="nurseTaskManagementSystem-group1" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="system.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/system.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.8888888">
+            <state vertical-scroll-proportion="0.0">
               <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
               <folding />
             </state>
@@ -62,27 +46,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-              <folding>
-                <marker date="1430183098000" expanded="true" signature="656:750" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="873:982" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="1292:1371" placeholder="..." />
-                <marker date="1430183098000" expanded="false" signature="1340:1370" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="1432:1444" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="1478:1567" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="1497:1563" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="1730:1821" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="1908:2005" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="7063:7235" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="12945:13040" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="13165:13273" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="13587:13666" placeholder="..." />
-                <marker date="1430183098000" expanded="false" signature="13635:13665" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="13727:13739" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="13774:13863" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="13793:13859" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="14026:14117" placeholder="..." />
-                <marker date="1430183098000" expanded="true" signature="14204:14301" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -120,7 +84,7 @@
       <file leaf-file-name="nurse.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/nurse.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -130,7 +94,7 @@
       <file leaf-file-name="district.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/district.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -150,20 +114,9 @@
       <file leaf-file-name="user_class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/user_class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="143" column="50" selection-start-line="143" selection-start-column="50" selection-end-line="143" selection-end-column="50" />
-              <folding>
-                <marker date="1430183098000" expanded="true" signature="679:1051" placeholder="select * fro..system_login..." />
-                <marker date="1430183098000" expanded="true" signature="1443:1875" placeholder="select task_..system_tasks..." />
-                <marker date="1430183098000" expanded="true" signature="2166:2608" placeholder="select task_..system_tasks..." />
-                <marker date="1430183098000" expanded="true" signature="3029:3450" placeholder="select task_..system_tasks..." />
-                <marker date="1430183098000" expanded="true" signature="3791:3840" placeholder="delete from ..." />
-                <marker date="1430183098000" expanded="true" signature="4313:4624" placeholder="insert into `system_tasks`..." />
-                <marker date="1430183098000" expanded="true" signature="4913:5287" placeholder="select user_..system_users..." />
-                <marker date="1430183098000" expanded="true" signature="5873:6345" placeholder="update syste..." />
-                <marker date="1430183098000" expanded="true" signature="6686:7211" placeholder="select task_..system_tasks..." />
-                <marker date="1430183098000" expanded="true" signature="7560:8075" placeholder="select task_..system_tasks..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -171,11 +124,9 @@
       <file leaf-file-name="nurse_class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/nurse_class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1430183098000" expanded="true" signature="622:737" placeholder="select nurse..nurses..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -266,6 +217,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -342,7 +294,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,6 +323,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -393,23 +349,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="133" y="122" width="1529" height="967" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2535306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26025555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -422,159 +378,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/controllers/assignedtask.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.185185">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1430183098000" expanded="true" signature="656:750" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="873:982" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1292:1371" placeholder="..." />
-            <marker date="1430183098000" expanded="false" signature="1340:1370" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1432:1444" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1478:1567" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1497:1563" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1730:1821" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1908:2005" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="7063:7235" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="12945:13040" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13165:13273" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13587:13666" placeholder="..." />
-            <marker date="1430183098000" expanded="false" signature="13635:13665" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13727:13739" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13774:13863" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13793:13859" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="14026:14117" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="14204:14301" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/validation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/login_controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="261.875">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1430183098000" expanded="true" signature="268:281" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="371:384" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="3043:3137" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="3260:3369" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="3679:3758" placeholder="..." />
-            <marker date="1430183098000" expanded="false" signature="3727:3757" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="3819:3831" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="3865:3954" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="3884:3950" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="4117:4208" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="4295:4392" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="9728:9900" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="15939:16034" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="16159:16267" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="16581:16660" placeholder="..." />
-            <marker date="1430183098000" expanded="false" signature="16629:16659" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="16721:16733" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="16768:16857" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="16787:16853" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="17020:17111" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="17198:17295" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="19354:19448" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="19575:19684" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="20000:20079" placeholder="..." />
-            <marker date="1430183098000" expanded="false" signature="20048:20078" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="20140:20152" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="20186:20277" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="20207:20273" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="20442:20533" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="20622:20719" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="21976:22071" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="22200:22308" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="22628:22707" placeholder="..." />
-            <marker date="1430183098000" expanded="false" signature="22676:22706" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="22768:22780" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="22815:22906" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="22836:22902" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="23071:23162" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="23251:23348" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/adb.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/admin_class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.25">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding>
-            <marker date="1430183098000" expanded="true" signature="667:934" placeholder="select task_..system_tasks..." />
-            <marker date="1430183098000" expanded="true" signature="1277:1671" placeholder="select task_..system_tasks..." />
-            <marker date="1430183098000" expanded="true" signature="2013:2062" placeholder="delete from ..." />
-            <marker date="1430183098000" expanded="true" signature="2444:2597" placeholder="insert into `system_tasks`..." />
-            <marker date="1430183098000" expanded="true" signature="3085:3305" placeholder="update syste..." />
-            <marker date="1430183098000" expanded="true" signature="3637:4018" placeholder="select task_..system_tasks..." />
-            <marker date="1430183098000" expanded="true" signature="4227:4253" placeholder="select * fro..system_users..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/login_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.625">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/system.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8888888">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
           <folding />
         </state>
@@ -584,27 +390,237 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding>
-            <marker date="1430183098000" expanded="true" signature="656:750" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="873:982" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1292:1371" placeholder="..." />
-            <marker date="1430183098000" expanded="false" signature="1340:1370" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1432:1444" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1478:1567" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1497:1563" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1730:1821" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="1908:2005" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="7063:7235" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="12945:13040" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13165:13273" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13587:13666" placeholder="..." />
-            <marker date="1430183098000" expanded="false" signature="13635:13665" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13727:13739" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13774:13863" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="13793:13859" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="14026:14117" placeholder="..." />
-            <marker date="1430183098000" expanded="true" signature="14204:14301" placeholder="..." />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/task.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/nurse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/district.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/nurse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/district.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/user_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="50" selection-start-line="143" selection-start-column="50" selection-end-line="143" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/nurse_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/system.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/task.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/nurse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/district.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/nurse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/district.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/user_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="50" selection-start-line="143" selection-start-column="50" selection-end-line="143" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/nurse_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/assignedtask.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.185185">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/login_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="261.875">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/adb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/admin_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.25">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/login_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.625">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/system.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -650,20 +666,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/user_class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="143" column="50" selection-start-line="143" selection-start-column="50" selection-end-line="143" selection-end-column="50" />
-          <folding>
-            <marker date="1430183098000" expanded="true" signature="679:1051" placeholder="select * fro..system_login..." />
-            <marker date="1430183098000" expanded="true" signature="1443:1875" placeholder="select task_..system_tasks..." />
-            <marker date="1430183098000" expanded="true" signature="2166:2608" placeholder="select task_..system_tasks..." />
-            <marker date="1430183098000" expanded="true" signature="3029:3450" placeholder="select task_..system_tasks..." />
-            <marker date="1430183098000" expanded="true" signature="3791:3840" placeholder="delete from ..." />
-            <marker date="1430183098000" expanded="true" signature="4313:4624" placeholder="insert into `system_tasks`..." />
-            <marker date="1430183098000" expanded="true" signature="4913:5287" placeholder="select user_..system_users..." />
-            <marker date="1430183098000" expanded="true" signature="5873:6345" placeholder="update syste..." />
-            <marker date="1430183098000" expanded="true" signature="6686:7211" placeholder="select task_..system_tasks..." />
-            <marker date="1430183098000" expanded="true" signature="7560:8075" placeholder="select task_..system_tasks..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -671,9 +676,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1430183098000" expanded="true" signature="622:737" placeholder="select nurse..nurses..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>

@@ -38,7 +38,7 @@ function add_task ( )
             && isset ( $_REQUEST [ 'user_id' ] ) && isset ( $_REQUEST [ 'task_collaborator' ] )
             && isset ( $_REQUEST [ 'task_start_date' ] ) && isset ( $_REQUEST [ 'task_end_date' ] ) )
     {
-        include '../models/user_class.php';
+        include '../models/implementationOne-AddTaskModel.php';
 
         $task_title = $_REQUEST [ 'task_title' ];
         $task_description = $_REQUEST [ 'task_description' ];

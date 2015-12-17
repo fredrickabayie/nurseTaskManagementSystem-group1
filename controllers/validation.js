@@ -1,9 +1,7 @@
 
 
 
-var Validation = function ( )
-{
-    
+var Validation = function() {
     this.validate_title = function ( )
     {
 //        Initializing instance variables

@@ -1,6 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
  * User: fredrickabayie
  * Date: 17/12/2015
  * Time: 21:41
@@ -13,8 +12,8 @@ if ( isset ( $_REQUEST [ 'cmd' ] ) )
     switch ( $cmd )
     {
 
-        case 1:
-            update_task ( );
+        case 4:
+            editTask();
             break;
 
         default:
@@ -27,15 +26,15 @@ if ( isset ( $_REQUEST [ 'cmd' ] ) )
 
 
 /**
- * Fucntion to update a task
+ * Function to update/edit a task
  */
-function update_task ( )
+function editTask ( )
 {
     if ( isset ( $_REQUEST [ 'update_task_id' ] ) && isset ( $_REQUEST [ 'update_task_description' ] )
         && isset ( $_REQUEST [ 'update_task_title' ] ) && isset ( $_REQUEST [ 'update_task_title' ] )
         && isset ( $_REQUEST [ 'task_start_date' ] ) && isset ( $_REQUEST [ 'task_end_date' ] ) )
     {
-        include '../models/user_class.php';
+        include '../models/UpdateTask.php';
 
         $task_title = $_REQUEST [ 'update_task_title' ];
         $task_description = $_REQUEST [ 'update_task_description' ];
@@ -44,9 +43,9 @@ function update_task ( )
         $task_start_date = $_REQUEST ['task_start_date'];
         $task_end_date = $_REQUEST ['task_end_date'];
 
-        $obj = new User ( );
+        $obj = new UpdateTask();
 
-        if ( $obj->user_update_task ( $task_id, $task_title, $task_description, $task_collaborator,
+        if ( $obj->editTask ( $task_id, $task_title, $task_description, $task_collaborator,
             $task_start_date, $task_end_date ) )
         {
             echo ' { "result":1, "status": "Successfully updated task" } ';
@@ -56,4 +55,4 @@ function update_task ( )
             echo ' { "result":0, "status": "Failed to update task" }';
         }
     }
-}//end of update_task ( )
+}

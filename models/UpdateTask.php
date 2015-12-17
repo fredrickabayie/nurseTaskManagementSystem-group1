@@ -1,26 +1,23 @@
 <?php
-
-
 /**
  * Including others files into this document
  */
 include_once ( 'adb.php' );
 
-/**
- * Created by PhpStorm.
- * User: fredrickabayie
- * Date: 17/12/2015
- * Time: 21:44
- */
 
 /**
  * Class UpdateTask
  *
  * This is class that handles updating/editing of task
  * by a nurse who created that particular task
+ *
+ * User: fredrickabayie
+ * Date: 17/12/2015
+ * Time: 21:44
  */
 class UpdateTask extends adb
 {
+
 
     /**
      * Function to update a task created by a nurse

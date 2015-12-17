@@ -1,11 +1,11 @@
 <?php
 	include_once ( "adb.php" );
-class task extends adb
+class viewtask extends adb
 {	
 	/**
 	* Constructor for task
 	**/
-	function task (){}
+	function viewtask (){}
 	
 	/**
 	* A function to get the tasks for a particular nurse given her id

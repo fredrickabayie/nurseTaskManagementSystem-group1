@@ -20,9 +20,9 @@ if ( isset ( $_REQUEST [ 'cmd' ] ) )
         default:
             echo '{"result":0,status:"unknown command"}';
             break;
-    }//end of switch
+    }
 
-}//end of if
+}
 
 
 

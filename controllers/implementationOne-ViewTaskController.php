@@ -37,7 +37,7 @@ function getTasksforNurse(){
     
     }
     else{
-        echo '{"result":0,"message:"error getting products"}';
+        echo '{"result":0,"message:"error getting nurse tasks"}';
         
     }
 }

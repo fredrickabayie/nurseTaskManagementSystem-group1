@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39cc5b03-8856-4d7b-82ca-ef96832e5491" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js" afterPath="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php" afterPath="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php" />
@@ -35,11 +37,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="implementationThree-ArchiveTaskController.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js">
+      <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1416765">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regular.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/regular.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -48,8 +60,18 @@
       <file leaf-file-name="implementationThree-ArchiveTaskController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state vertical-scroll-proportion="-21.875">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="implementationThree-ArchiveTaskController.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3364817">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -58,10 +80,10 @@
       <file leaf-file-name="ArchiveTask.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/ArchiveTask.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state vertical-scroll-proportion="-13.75">
+              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
               <folding>
-                <marker date="1450448135000" expanded="true" signature="608:760" placeholder="UPDATE syste..." />
+                <marker date="1450450177000" expanded="true" signature="609:763" placeholder="UPDATE syste..." />
               </folding>
             </state>
           </provider>
@@ -97,14 +119,14 @@
         <option value="$PROJECT_DIR$/controllers/implementationOne-UpdateTaskController.js" />
         <option value="$PROJECT_DIR$/controllers/implementationOne-UpdateTaskController.php" />
         <option value="$PROJECT_DIR$/models/login.php" />
-        <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" />
         <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.js" />
         <option value="$PROJECT_DIR$/controllers/validation.js" />
         <option value="$PROJECT_DIR$/models/Login.php" />
         <option value="$PROJECT_DIR$/models/UpdateTask.php" />
+        <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" />
         <option value="$PROJECT_DIR$/models/ArchiveTask.php" />
-        <option value="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js" />
         <option value="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php" />
+        <option value="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js" />
       </list>
     </option>
   </component>
@@ -440,24 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/ArchiveTask.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <marker date="1450448135000" expanded="true" signature="608:760" placeholder="UPDATE syste..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9563164">
@@ -544,10 +548,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/regular.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/ArchiveTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.75">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <marker date="1450450177000" expanded="true" signature="609:763" placeholder="UPDATE syste..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/implementationTwo-LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0024301338">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/implementationTwo-LoginController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.875">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1416765">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.3364817">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
           <folding />
         </state>
       </provider>

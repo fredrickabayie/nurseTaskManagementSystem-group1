@@ -12,12 +12,12 @@ function sendRequest ( u )
 
 
 //function to add a new task
-function archiveTask ( )
+function archiveTasks ( )
 {
     var archive_task_id = document.getElementById("archive_task_id").value;
     var archive_task_status = document.getElementById("archive_task_status").value;
 
-    var url = "implementationOne-UpdateTaskController.php?cmd=12&archive_task_status="+archive_task_status+
+    var url = "implementationOne-ArchiveTaskController.php?cmd=12&archive_task_status="+archive_task_status+
         "&archive_task_id="+archive_task_id;
 
     var obj = sendRequest ( url );

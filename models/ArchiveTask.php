@@ -25,11 +25,11 @@ class ArchiveTask extends adb
      * @param String $task_archive Changing the task status
      * @return bool Returning the query results
      */
-    function archiveTask ( $task_id, $task_archive )
+    function archiveTasks ( $task_id, $task_archive )
     {
         $archiveQuery = "UPDATE system_tasks
-                        SET system_tasks.task_archive='$task_archive',
-                        WHERE system_tasks.task_id='$task_id'";
+                         SET system_tasks.task_archive='$task_archive',
+                         WHERE system_tasks.task_id='$task_id'";
 
         return $this->query ( $archiveQuery );
     }

@@ -43,7 +43,7 @@ function archiveTask ( )
 
         $obj = new ArchiveTask();
 
-        if ( $obj->archiveTask ( $task_id, $task_status ) )
+        if ( $obj->archiveTasks ( $task_id, $task_status ) )
         {
             echo ' { "result":1, "status": "Successfully archived task" } ';
         }

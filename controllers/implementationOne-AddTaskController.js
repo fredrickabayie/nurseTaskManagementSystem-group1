@@ -1,4 +1,7 @@
+/*
 //function to call the add task
+*This function call the add task its makes the page iteractive.
+*/
             $ ( function ( )
             {
                 $ ( ".newtaskbutton" ).click ( function ( )
@@ -15,8 +18,11 @@
                     $(".update").hide();
                 });
             });
-
+    /*
    //function to add a new task
+   *This fuction takes the value from the texfied and insert it to the dat base.
+   *
+   */
         function insertTask ( )
         {
                 var task_title = encodeURI(document.getElementById("task_title").value);
@@ -25,7 +31,7 @@
                 var user_collaborator = document.getElementById ( "collaborator" );
                 var task_collaborator = user_collaborator.options [ user_collaborator.selectedIndex ].value;
 
-                var url = "../controllers/implementationOne_AddTaskcontroller.php?cmd=3&task_title="+task_title+
+                var url = "../controllers/implementationOne_controller.php?cmd=3&task_title="+task_title+
                         "&task_description="+task_description+"&user_id="+user_id+
                         "&task_collaborator="+task_collaborator;
 

@@ -1,8 +1,21 @@
+/**
+ *Handling of user login details
+ *
+ * User: fredrickabayie
+ * Date: 17/12/2015
+ * Time: 21:41
+ */
 
-//            Function to send a request
-function syncAjax ( u )
+/**
+ * Function to send the url
+ *
+ *This function sends a synchronous request in a url
+ * format and parses the results obtained to a json format
+ * @param u The url to send the request to
+ */
+function syncAjax ( url )
 {
-    var obj = $.ajax ({url: u, async: false});
+    var obj = $.ajax ({url: url, async: false});
     var result = $.parseJSON ( obj.responseText );
     return result;
 }//end of syncAjax
@@ -15,7 +28,7 @@ $( function ( )
     {
         var username = $("#username").val();
         var password = $("#password").val();
-        var url = "../controllers/user_controller.php?cmd=7&username="+username+"&password="+password;
+        var url = "../controllers/implementationTwo-LoginController.php?cmd=7&username="+username+"&password="+password;
         var obj = syncAjax ( url );
         if ( obj.result === 1 )
         {

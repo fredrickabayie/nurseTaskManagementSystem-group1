@@ -44,30 +44,11 @@ var Validation = function() {
             return true;
         }
     };
-    
-     this.validate_start_date = function ( )
-    {
-//        Instance variables
-        var start_date;
-        var start_date_value;
-        
-        start_date = new RegExp ( "[0-9].[0-9]{2}");
-        start_date_value = document.getElementById ( "task_start_date" ).value;
-        
-        if ( !start_date.test ( start_date_value ) )
-        {
-             document.getElementById ( "task_start_date" ).style.border="1px solid red";
-             return false;
-        }
-        else
-        {
-            document.getElementById ( "task_start_date" ).style.border="1px solid black";
-            return true;
-        }
-    };
-    
-    this.validate_end_date = function ( )
-    {
+
+    //noinspection JSUnusedGlobalSymbols,JSUnusedGlobalSymbols
+
+
+this.validate_end_date = function () {
 //        Instance variables
         var start_date;
         var start_date_value;
@@ -87,22 +68,6 @@ var Validation = function() {
         }
     };
     
-    this.sendData = function ( )
-    {
-        var valid = this.validate_title ( );
-        valid = valid & this.validate_description ( );
-        if ( !valid )
-        {
-            return false;
-        }
-        else
-        {
-            insertTask();
-            document.getElementById ( "task_description" ).value = "";
-            document.getElementById ( "task_title").value = "";
-            document.getElementById ( "task_start_date" ).value = "";
-            document.getElementById ( "task_end_date" ).value = "";
-        }
-    };
+
         
 };

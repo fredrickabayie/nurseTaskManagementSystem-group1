@@ -25,7 +25,6 @@ if ( isset ( $_REQUEST [ 'cmd' ] ) )
 }
 
 
-
 /**
  * Function to archive a task
  *

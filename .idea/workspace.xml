@@ -35,23 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/Login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <marker date="1450447259000" expanded="true" signature="704:1020" placeholder="SELECT * FRO..system_login..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="implementationThree-ArchiveTaskController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38961038">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.1416765">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -60,18 +48,8 @@
       <file leaf-file-name="implementationThree-ArchiveTaskController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user_controller.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controllers/user_controller.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="10.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -125,8 +103,8 @@
         <option value="$PROJECT_DIR$/models/Login.php" />
         <option value="$PROJECT_DIR$/models/UpdateTask.php" />
         <option value="$PROJECT_DIR$/models/ArchiveTask.php" />
-        <option value="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php" />
         <option value="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js" />
+        <option value="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php" />
       </list>
     </option>
   </component>
@@ -250,6 +228,10 @@
               <option name="myItemId" value="nurseTaskManagementSystem-group1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -262,6 +244,16 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nurseTaskManagementSystem-group1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nurseTaskManagementSystem-group1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -430,16 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/Login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <marker date="1450447259000" expanded="true" signature="704:1020" placeholder="SELECT * FRO..system_login..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/UpdateTask.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40097207">
@@ -470,16 +452,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9563164">
+          <caret line="54" column="56" selection-start-line="54" selection-start-column="56" selection-end-line="54" selection-end-column="56" />
+          <folding>
+            <marker date="1450447311000" expanded="true" signature="656:750" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="873:982" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="1292:1371" placeholder="..." />
+            <marker date="1450447311000" expanded="false" signature="1340:1370" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="1432:1444" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="1478:1567" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="1497:1563" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="1730:1821" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="1908:2005" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="7063:7235" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="12945:13040" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="13165:13273" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="13587:13666" placeholder="..." />
+            <marker date="1450447311000" expanded="false" signature="13635:13665" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="13727:13739" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="13774:13863" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="13793:13859" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="14026:14117" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="14204:14301" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0230863">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1450447311000" expanded="true" signature="268:281" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="371:384" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="3043:3137" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="3260:3369" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="3679:3758" placeholder="..." />
+            <marker date="1450447311000" expanded="false" signature="3727:3757" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="3819:3831" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="3865:3954" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="3884:3950" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="4117:4208" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="4295:4392" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="9728:9900" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="15939:16034" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="16159:16267" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="16581:16660" placeholder="..." />
+            <marker date="1450447311000" expanded="false" signature="16629:16659" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="16721:16733" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="16768:16857" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="16787:16853" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="17020:17111" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="17198:17295" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="19354:19448" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="19575:19684" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="20000:20079" placeholder="..." />
+            <marker date="1450447311000" expanded="false" signature="20048:20078" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="20140:20152" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="20186:20277" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="20207:20273" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="20442:20533" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="20622:20719" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="21976:22071" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="22200:22308" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="22628:22707" placeholder="..." />
+            <marker date="1450447311000" expanded="false" signature="22676:22706" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="22768:22780" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="22815:22906" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="22836:22902" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="23071:23162" placeholder="..." />
+            <marker date="1450447311000" expanded="true" signature="23251:23348" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32806805">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <marker date="1450447259000" expanded="true" signature="704:1020" placeholder="SELECT * FRO..system_login..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38961038">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.1416765">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
           <folding />
         </state>
       </provider>

@@ -1,5 +1,6 @@
 <?php
 /**
+ * 
  * User: fredrickabayie
  * Date: 17/12/2015
  * Time: 21:41
@@ -27,6 +28,10 @@ if ( isset ( $_REQUEST [ 'cmd' ] ) )
 
 /**
  * Function to update/edit a task
+ *
+ * This function gets the updated task details from the url
+ * parsed by the controller javascript function using the post
+ * method and creates an instance of
  */
 function editTask ( )
 {

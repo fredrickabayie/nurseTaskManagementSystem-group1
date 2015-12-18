@@ -27,11 +27,11 @@ class ArchiveTask extends adb
      */
     function archiveTask ( $task_id, $task_archive )
     {
-        $updateQuery = "UPDATE system_tasks
+        $archiveQuery = "UPDATE system_tasks
                         SET system_tasks.task_archive='$task_archive',
                         WHERE system_tasks.task_id='$task_id'";
 
-        return $this->query ( $updateQuery );
+        return $this->query ( $archiveQuery );
     }
 
 }

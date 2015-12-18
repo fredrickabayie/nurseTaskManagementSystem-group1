@@ -13,8 +13,8 @@ if ( isset ( $_REQUEST [ 'cmd' ] ) )
     switch ( $cmd )
     {
 
-        case 4:
-            editTask();
+        case 12:
+            archiveTask();
             break;
 
         default:
@@ -27,37 +27,30 @@ if ( isset ( $_REQUEST [ 'cmd' ] ) )
 
 
 /**
- * Function to update/edit a task
+ * Function to archive a task
  *
- * This function gets the updated task details from the url
- * parsed by the controller javascript function using the post
- * method and creates an instance of
+ * This function archives the task by identification number and
+ * returns a json to the javascript response
  */
-function editTask ( )
+function archiveTask ( )
 {
-    if ( isset ( $_REQUEST [ 'update_task_id' ] ) && isset ( $_REQUEST [ 'update_task_description' ] )
-        && isset ( $_REQUEST [ 'update_task_title' ] ) && isset ( $_REQUEST [ 'update_task_title' ] )
-        && isset ( $_REQUEST [ 'task_start_date' ] ) && isset ( $_REQUEST [ 'task_end_date' ] ) )
+    if ( isset ( $_REQUEST [ 'archive_task_id' ] ) && isset ( $_REQUEST [ 'archive_task_status' ] ))
     {
-        include '../models/UpdateTask.php';
+        include '../models/ArchiveTask.php';
 
-        $task_title = $_REQUEST [ 'update_task_title' ];
-        $task_description = $_REQUEST [ 'update_task_description' ];
-        $task_id = $_REQUEST [ 'update_task_id' ];
-        $task_collaborator = $_REQUEST['task_collaborator'];
-        $task_start_date = $_REQUEST ['task_start_date'];
-        $task_end_date = $_REQUEST ['task_end_date'];
+        $task_id = $_REQUEST [ 'archive_task_id' ];
+        $task_status = $_REQUEST [ 'archive_task_status' ];
 
-        $obj = new UpdateTask();
 
-        if ( $obj->editTask ( $task_id, $task_title, $task_description, $task_collaborator,
-            $task_start_date, $task_end_date ) )
+        $obj = new ArchiveTask();
+
+        if ( $obj->archiveTask ( $task_id, $task_status ) )
         {
-            echo ' { "result":1, "status": "Successfully updated task" } ';
+            echo ' { "result":1, "status": "Successfully archived task" } ';
         }
         else
         {
-            echo ' { "result":0, "status": "Failed to update task" }';
+            echo ' { "result":0, "status": "Failed to archive task" }';
         }
     }
 }

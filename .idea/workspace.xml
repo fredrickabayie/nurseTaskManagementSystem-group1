@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="39cc5b03-8856-4d7b-82ca-ef96832e5491" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/implementationTwo-LoginController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" afterPath="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/Login.php" afterPath="$PROJECT_DIR$/models/Login.php" />
     </list>
     <ignored path="nurseTaskManagementSystem-group1.iws" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/Login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.25">
-              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+            <state vertical-scroll-proportion="-10.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <marker date="1450441318000" expanded="true" signature="550:866" placeholder="SELECT * FRO..system_login..." />
               </folding>
@@ -80,9 +80,11 @@
       <file leaf-file-name="implementationTwo-LoginController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/implementationTwo-LoginController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2029161">
-              <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
-              <folding />
+            <state vertical-scroll-proportion="0.39854193">
+              <caret line="43" column="43" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+              <folding>
+                <element signature="e#6#108#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,8 +142,8 @@
         <option value="$PROJECT_DIR$/controllers/implementationOne-UpdateTaskController.php" />
         <option value="$PROJECT_DIR$/models/login.php" />
         <option value="$PROJECT_DIR$/models/Login.php" />
-        <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" />
         <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.js" />
+        <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" />
       </list>
     </option>
   </component>
@@ -623,16 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/Login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.25">
-          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
-          <folding>
-            <marker date="1450441318000" expanded="true" signature="550:866" placeholder="SELECT * FRO..system_login..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/user_controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.375">
@@ -657,11 +649,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/models/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1450441318000" expanded="true" signature="550:866" placeholder="SELECT * FRO..system_login..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/implementationTwo-LoginController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2029161">
-          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
-          <folding />
+        <state vertical-scroll-proportion="0.39854193">
+          <caret line="43" column="43" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+          <folding>
+            <element signature="e#6#108#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

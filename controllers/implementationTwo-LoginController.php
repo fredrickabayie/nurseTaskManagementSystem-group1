@@ -1,5 +1,6 @@
 <?php
 /**
+ *Handling of user login details
  *
  * User: fredrickabayie
  * Date: 17/12/2015
@@ -27,24 +28,22 @@ if ( isset ( $_REQUEST [ 'cmd' ] ) )
 
 
 /**
- * Function to update/edit a task
+ * Function to handle login
  *
- * This function gets the updated task details from the url
- * parsed by the controller javascript function using the post
- * method and creates an instance of
- */
-/**
- * Function for user to login
+ * This function is to handle login query by passing the user login
+ * details to the login function in the login.php class
+ * This function also converts the results to a json format
+ * and passes it to the javascript function
  */
 function user_login ( )
 {
     if ( isset ( $_REQUEST['username'] ) & isset ( $_REQUEST['password'] ) )
     {
-        include_once '../models/user_class.php';
-        $obj = new User ( );
+        include_once '../models/Login.php';
+        $obj = new Login();
         $username = $_REQUEST ['username'];
         $password = $_REQUEST ['password'];
-        $row = $obj->user_login ( $username, $password );
+        $row = $obj->userLogin ( $username, $password );
         if ( !$row )
         {
             echo '{"result":0, "message":"Failed to login"}';

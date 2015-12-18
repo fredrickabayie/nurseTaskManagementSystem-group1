@@ -4,8 +4,9 @@
     <list default="true" id="39cc5b03-8856-4d7b-82ca-ef96832e5491" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/implementationThree-ArchiveTaskController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/ArchiveTask.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/ArchiveTask.php" afterPath="$PROJECT_DIR$/models/ArchiveTask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/UpdateTask.php" afterPath="$PROJECT_DIR$/models/UpdateTask.php" />
     </list>
     <ignored path="nurseTaskManagementSystem-group1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,13 +67,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArchiveTask.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArchiveTask.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/ArchiveTask.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30984205">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state vertical-scroll-proportion="-15.0">
+              <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
               <folding>
-                <marker date="1450447852000" expanded="true" signature="1044:1461" placeholder="UPDATE syste..." />
+                <marker date="1450448058000" expanded="true" signature="607:759" placeholder="UPDATE syste..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpdateTask.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/UpdateTask.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5832321">
+              <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+              <folding>
+                <marker date="1450448093000" expanded="true" signature="1040:1481" placeholder="UPDATE syste..." />
               </folding>
             </state>
           </provider>
@@ -105,7 +118,6 @@
         <option value="$PROJECT_DIR$/controllers/nurse.js" />
         <option value="$PROJECT_DIR$/controllers/district.js" />
         <option value="$PROJECT_DIR$/models/task.php" />
-        <option value="$PROJECT_DIR$/models/UpdateTask.php" />
         <option value="$PROJECT_DIR$/controllers/implementationOne-UpdateTaskController.js" />
         <option value="$PROJECT_DIR$/controllers/implementationOne-UpdateTaskController.php" />
         <option value="$PROJECT_DIR$/models/login.php" />
@@ -114,6 +126,7 @@
         <option value="$PROJECT_DIR$/controllers/validation.js" />
         <option value="$PROJECT_DIR$/models/Login.php" />
         <option value="$PROJECT_DIR$/models/ArchiveTask.php" />
+        <option value="$PROJECT_DIR$/models/UpdateTask.php" />
       </list>
     </option>
   </component>
@@ -445,10 +458,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/ArchiveTask.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30984205">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
           <folding>
-            <marker date="1450447852000" expanded="true" signature="1044:1461" placeholder="UPDATE syste..." />
+            <marker date="1450448058000" expanded="true" signature="607:759" placeholder="UPDATE syste..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/UpdateTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5832321">
+          <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+          <folding>
+            <marker date="1450448093000" expanded="true" signature="1040:1481" placeholder="UPDATE syste..." />
           </folding>
         </state>
       </provider>

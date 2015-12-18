@@ -33,7 +33,8 @@ class UpdateTask extends adb
     function editTask ( $task_id, $task_title, $task_description,
                         $task_collaborator, $task_start_date, $task_end_date )
     {
-        $updateQuery = "UPDATE system_tasks SET system_tasks.task_title='$task_title',
+        $updateQuery = "UPDATE system_tasks
+                        SET system_tasks.task_title='$task_title',
                         system_tasks.task_description='$task_description',
                         system_tasks.task_collaborator='$task_collaborator',
                         system_tasks.task_start_date='$task_start_date',

@@ -11,46 +11,14 @@ function sendRequest ( u )
 }//end of sendRequest(u)
 
 
-/**
- * Function to process the edit button
- * @returns {Boolean}
- */
-$ ( function ( )
-{
-    $ ( ".updatetaskbutton" ).click ( function ( )
-    {
-        $(".addtaskbutton").fadeOut().hide();
-        $(".newtaskbutton").slideDown().show();
-        $(".edittaskbutton").slideDown().show();
-        $(".updatetaskbutton").slideDown().hide();
-        var task_id = $ ( ".showpreviewinner2upper" ).text();
-        var task_title = $ ( ".previewcontentheaderbodytitle2" ).text();
-        var task_description = $ ( ".previewcontentheaderbodydescription2" ).text();
-
-        $(".update").slideDown ( 'slow', function ( )
-        {
-            $(this).show();
-        });
-        $(".preview").hide();
-        $(".add").hide();
-
-        $ ( "#update_task_id" ).attr( "value", task_id );
-        $ ( "#update_task_title" ).attr( "value", task_title );
-        $ ( "#update_task_description" ).html( task_description );
-    });
-});
-
-
 //function to add a new task
-function editTask ( )
+function archiveTask ( )
 {
-    var update_task_id = document.getElementById("update_task_id").value;
-    var update_task_title = document.getElementById("update_task_title").value;
-    var update_task_description = document.getElementById("update_task_description").value;
+    var archive_task_id = document.getElementById("archive_task_id").value;
+    var archive_task_status = document.getElementById("archive_task_status").value;
 
-
-    var url = "implementationOne-UpdateTaskController.php?cmd=4&update_task_title="+update_task_title+
-        "&update_task_description="+update_task_description+"&update_task_id="+update_task_id;
+    var url = "implementationOne-UpdateTaskController.php?cmd=12&archive_task_status="+archive_task_status+
+        "&archive_task_id="+archive_task_id;
 
     var obj = sendRequest ( url );
 

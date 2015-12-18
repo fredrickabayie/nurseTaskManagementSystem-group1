@@ -1,135 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39cc5b03-8856-4d7b-82ca-ef96832e5491" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/database_architecture.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome-4.3.0/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/illustration.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/nurselogin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascripts/jquery-2.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/stylesheets/dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/stylesheets/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/stylesheets/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/admin_controller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/assignedtask.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/district.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/login.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/nurse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/task.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/user_controller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/validation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/class-User.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/class-adb.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/class-logerror.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/elementlist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-add_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-delete_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-delete_tasks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-display_created_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-display_tasks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-log_msg.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-search_created_tasks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-search_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-select_collaborator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-sendMail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-task_preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-update_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/function-user_login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/collapsed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/combined.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/inherit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/resize.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/sort.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/tree-cleaner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/tree-hasnext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/tree-last.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/resources/tree-vertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-class-User.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-class-adb.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-class-logerror.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-add_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-delete_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-delete_tasks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-display_created_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-display_tasks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-log_msg.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-search_created_tasks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-search_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-select_collaborator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-sendMail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-task_preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-update_task.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/source-function-user_login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/20150411_202148.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/65456.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/877887.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/plogo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/user-48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/adb.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/admin_class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/district.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/login_model.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/nurse.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/nurse_class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/system.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/task.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/user_class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/config.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/add_task.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/home.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/preview.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/regular.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/update_task.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="39cc5b03-8856-4d7b-82ca-ef96832e5491" name="Default" comment="" />
     <ignored path="nurseTaskManagementSystem-group1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -156,7 +28,7 @@
     <favorites_list name="nurseTaskManagementSystem-group1" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -167,6 +39,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="implementationOne-UpdateTask" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -174,11 +51,18 @@
         <option value="$PROJECT_DIR$/models/config.php" />
         <option value="$PROJECT_DIR$/models/adb.php" />
         <option value="$PROJECT_DIR$/controllers/login_controller.js" />
-        <option value="$PROJECT_DIR$/controllers/validation.js" />
         <option value="$PROJECT_DIR$/controllers/task.js" />
         <option value="$PROJECT_DIR$/controllers/nurse.js" />
         <option value="$PROJECT_DIR$/controllers/district.js" />
         <option value="$PROJECT_DIR$/models/task.php" />
+        <option value="$PROJECT_DIR$/models/UpdateTask.php" />
+        <option value="$PROJECT_DIR$/controllers/implementationOne-UpdateTaskController.js" />
+        <option value="$PROJECT_DIR$/controllers/implementationOne-UpdateTaskController.php" />
+        <option value="$PROJECT_DIR$/models/login.php" />
+        <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" />
+        <option value="$PROJECT_DIR$/models/Login.php" />
+        <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.js" />
+        <option value="$PROJECT_DIR$/controllers/validation.js" />
       </list>
     </option>
   </component>
@@ -241,7 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,6 +135,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -265,6 +149,11 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="/usr/local/bin/gjslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controllers" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -282,6 +171,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -305,21 +199,21 @@
     <frame x="133" y="122" width="1529" height="967" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2535306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24478817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -332,115 +226,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="261.875">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/adb.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/admin_class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.25">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/login_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.625">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/system.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8888888">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/nurse.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/district.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/user_class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="143" column="50" selection-start-line="143" selection-start-column="50" selection-end-line="143" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/nurse_class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10909091">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10909091">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
+    <entry file="uml://PHP/\UpdateTask">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\UpdateTask</OriginalElement>
+          <nodes>
+            <node x="" y="">\UpdateTask</node>
+            <node x="" y="">\adb</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="54.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>

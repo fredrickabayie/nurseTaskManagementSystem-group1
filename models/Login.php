@@ -10,41 +10,30 @@ include_once ( 'adb.php' );
  */
 class Login extends adb
 {
-    
+
     /**
-     * Constructor
-     */
-    function _construct ( )
-    {
-        $this->establish_connection ( );
-    }//end of constructor
-    
-    
-    /**
-     * Destructor
-     */
-    function _destruct ( )
-    {
-        $this->close_connection ( );
-    }//end of destructor
-        
-    
-    /**
-     * Function to check nurse_id and nurse_password
+     * Function to allow user login
+     * @param String $username
+     * @param String $password
+     * @return boolean
      */
     function user_login ( $username, $password )
     {
-       $login_query = "select system_login.user_id, system_login.user_type, system_login.username "
-               . "from system_login"
-               . " where username='$username' and password=MD5('$password') limit 1";
-       if ( !$this->query ( $login_query ) )
-       {
-           return false;
-       }
-       else
-       {
-          return $this->fetch ( );
-       }
+        $login_query = "SELECT *
+                        FROM system_login
+                        JOIN system_users
+                        ON system_users.user_id=system_login.user_id
+                        AND system_login.username='$username'
+                        AND system_login.password=MD5('$password')
+                        limit 1";
+        if ( !$this->query ( $login_query ) )
+        {
+            return false;
+        }
+        else
+        {
+            return $this->fetch ( );
+        }
     }//end of add_new_task
     
         

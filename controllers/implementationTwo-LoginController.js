@@ -11,14 +11,13 @@
  *
  *This function sends a synchronous request in a url
  * format and parses the results obtained to a json format
- * @param u The url to send the request to
+ * @param url The url to send the request to
  */
 function syncAjax ( url )
 {
     var obj = $.ajax ({url: url, async: false});
-    var result = $.parseJSON ( obj.responseText );
-    return result;
-}//end of syncAjax
+    return $.parseJSON (obj.responseText);
+}
 
 
 /**

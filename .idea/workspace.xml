@@ -8,6 +8,11 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/models/district.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/models/nurse.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/models/task.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/config.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/implementationTwo-LoginController.js" afterPath="$PROJECT_DIR$/controllers/implementationTwo-LoginController.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" afterPath="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/Login.php" afterPath="$PROJECT_DIR$/models/Login.php" />
@@ -81,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validation.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="validation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/validation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42502952">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -103,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="implementationTwo-LoginController.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="implementationTwo-LoginController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/implementationTwo-LoginController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3364817">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -188,8 +193,8 @@
         <option value="$PROJECT_DIR$/controllers/implementationOne-UpdateTaskController.php" />
         <option value="$PROJECT_DIR$/models/login.php" />
         <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.php" />
-        <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.js" />
         <option value="$PROJECT_DIR$/models/Login.php" />
+        <option value="$PROJECT_DIR$/controllers/implementationTwo-LoginController.js" />
       </list>
     </option>
   </component>
@@ -283,6 +288,10 @@
               <option name="myItemId" value="nurseTaskManagementSystem-group1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -291,10 +300,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="nurseTaskManagementSystem-group1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -611,16 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/implementationTwo-LoginController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/Login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.875">
@@ -661,9 +656,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/validation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42502952">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/implementationTwo-LoginController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3364817">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

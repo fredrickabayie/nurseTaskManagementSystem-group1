@@ -5,7 +5,7 @@
             {
                 $search_text = $ ( ".showcontenttopsearchfield" ).val ( );
                 console.log ( $search_text );
-                var url = "../controllers/implementationOne-SearchTaskController.php?cmd=6&search_text="+$search_text;
+                var url = "../controllers/implementationOne-SearchCreatedTaskController.php?cmd=6&search_text="+$search_text;
                 var obj = sendRequest ( url );
 
                 if ( obj.result === 1 )

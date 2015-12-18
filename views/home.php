@@ -63,30 +63,30 @@ and open the template in the editor.
 //            Function to load the list of task
             $ ( document ).ready ( function ( )
             {
-                getTasks();
+                display_assigned();
             });
 
- function getTasks()
+            function display_assigned ()
             {
-                var nurseid = 1;
-               var url = "../controllers/implementationOne-ViewTaskController.php?cmd=1&nurseid="+nurseid;
-               var obj = sendRequest (url);
+               var url = "../controllers/user_controller.php?cmd=5";
+               var obj = sendRequest ( url );
                var path = "";
                 if ( obj.result === 1 )
                 {
                     $(".tasks2").hide();
                     $(".tasks").slideDown().show();
                     path = $(".path").val();
+                    $("#profileimage").attr("src", path );
                     var div = "";
                     var timer;
                     for ( var index in obj.tasks )
                     {
                         div += "<div class='showcontentdetailsinnertile showcontentdetailsinnertile2'\n\
-                                    onclick='getPreview ( "+obj.tasks[index].task_id+" )'>";
+                                    onclick='getPreview ( "+obj.tasks [index].task_id+" )'>";
                         div += "<input class='showcontentdetailsinnertilecheckbox showcontentdetailsinnertilecheckbox2'\n\
-                                    value="+obj.tasks[index].task_id+" name='todelete[]' type='checkbox'>";
+                                    value="+obj.tasks [index].task_id+" name='todelete[]' type='checkbox'>";
                         div += "<div class='showcontentdetailsinnertilename'>";
-                        div += "<span>"+obj.tasks[index].name+"</span>";
+                        div += "<span>"+obj.tasks [index].user_fname+" "+obj.tasks [index].user_sname+"</span>";
                         div += "<div class='showcontentdetailsinnertiledelete showcontentdetailsinnertiledelete2' \n\
                                     style='float:right; margin-right:10px'>";
                         div += "<a class='delete' style='padding: 7px' id="+obj.tasks [index].task_id+"><i id='deleteicon' \n\

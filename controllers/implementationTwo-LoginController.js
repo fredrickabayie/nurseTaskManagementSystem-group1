@@ -21,15 +21,19 @@ function syncAjax ( url )
 }//end of syncAjax
 
 
-//function to make a request
+/**
+ * Function to get user details and send an ajax request
+ */
 $( function ( )
 {
     $("#loginbutton").click( function ( )
     {
         var username = $("#username").val();
         var password = $("#password").val();
+
         var url = "../controllers/implementationTwo-LoginController.php?cmd=7&username="+username+"&password="+password;
         var obj = syncAjax ( url );
+
         if ( obj.result === 1 )
         {
             $("#loginstatus").text(obj.username);

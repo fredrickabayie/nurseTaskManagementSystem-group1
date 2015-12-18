@@ -16,7 +16,11 @@ class Login extends adb
 {
 
     /**
-     * Function to run query for user login
+     * userLogin function
+     *
+     * This function is responsible for creating the login
+     * query to query the database and allow a user to login
+     * into the nurse task management system
      *
      * @param String $username The username of the user
      * @param String $password The password of the user

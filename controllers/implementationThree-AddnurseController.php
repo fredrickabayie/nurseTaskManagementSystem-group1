@@ -17,7 +17,7 @@ switch($cmd)
 
 
 function add_nurse(){
-    require_once ("nurse.php");
+    require_once ("implementation2-nurse.php");
     $fname = $_REQUEST['firstname'];
     $sname = $_REQUEST['surname'];
     $age = $_REQUEST['age'];

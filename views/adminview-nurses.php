@@ -84,6 +84,18 @@
 					<div id="divContent" >
 						NURSES
 						<span class="clickspot">click here </span>
+                        			<form class = "contact_form" method="POST" action="add_nurse.php">
+				Firstname: <input id="fname" type="text" placeholder="firstname" name="fn" required><br>
+                Surname: <input id="sname" type="text" placeholder="surname" name="sn" required><br>
+                Age: <input type="text" placeholder="age" name="na" required><br>
+                Sex: <select name="ns">
+                        <option value="Male">M</option>
+                        <option value="Female">F</option>
+                    </select><br>
+                Department: <input id="department" type="text" placeholder="department" required><br>
+                <br>
+				<input type="submit" name="button" value="Insert" onClick = validateName()>
+			</form>
 						<table id="tableExample" class="reportTable" width="100%">
 							<tr class="header"> 
 							</tr>

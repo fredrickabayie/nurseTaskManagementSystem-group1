@@ -49,6 +49,22 @@
             }
         }
         
+        function addnurse(){
+            var fn = $("#fname").val();
+            var sn = $("#sname").val();
+            var age = $("#age").val();
+            var sex = $("#sex").val();
+            var dp = $("#department").val();
+            
+            var url = "implementationThree-AddnurseController.php?cmd=1&firstname="+fn+"&surname="+sn+"&age="+age+"&sex="+sex+"&department="+dp+"";
+            var obj = sendRequest(url);   
+            if(obj.result == 1){
+                alert("Added successfully");
+            }
+            else{
+            }
+        }
+        
         
     </script>
 	<head>
@@ -87,8 +103,8 @@
                         			<form class = "contact_form" method="POST" action="add_nurse.php">
 				Firstname: <input id="fname" type="text" placeholder="firstname" name="fn" required><br>
                 Surname: <input id="sname" type="text" placeholder="surname" name="sn" required><br>
-                Age: <input type="text" placeholder="age" name="na" required><br>
-                Sex: <select name="ns">
+                Age: <input id="age" type="text" placeholder="age" name="na" required><br>
+                Sex: <select id="sex" name="ns">
                         <option value="Male">M</option>
                         <option value="Female">F</option>
                     </select><br>

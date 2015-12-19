@@ -94,7 +94,7 @@
                     </select><br>
                 Department: <input id="department" type="text" placeholder="department" required><br>
                 <br>
-				<input type="submit" name="button" value="Insert" onClick = validateName()>
+				<input type="button"  value="Insert" onClick = addnurse()>
 			</form>
 						<table id="tableExample" class="reportTable" width="100%">
 							<tr class="header"> 

